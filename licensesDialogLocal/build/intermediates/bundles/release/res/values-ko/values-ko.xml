@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/AndroidStudioProjects/LidSwitchDisable%20Xposed/licensesDialogLocal/src/main/res/values-ko/strings.xml -->
+    <eat-comment/>
+    <string name="notices_close">닫기</string>
+    <string name="notices_title">오픈소스 라이선스</string>
+</resources>

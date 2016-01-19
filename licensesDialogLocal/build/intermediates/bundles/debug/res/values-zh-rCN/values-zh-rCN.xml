@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/AndroidStudioProjects/LidSwitchDisable%20Xposed/licensesDialogLocal/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="notices_close">关闭</string>
+    <string name="notices_title">开放源代码许可</string>
+</resources>

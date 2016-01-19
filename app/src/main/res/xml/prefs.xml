@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Module">
+        <SwitchPreference
+            android:defaultValue="true"
+            android:key="disable_lid_switch"
+            android:title="Disable screen off when magnet applied"/>
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="disable_screen_on"
+            android:title="Disable screen on when magnet removed"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="About">
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="hideLauncherIcon"
+            android:title="Hide launcher icon"/>
+        <Preference
+            android:key="openSourceLicenses"
+            android:title="Open source software"/>
+        <Preference
+            android:enabled="false"
+            android:key="appVersion"
+            android:title="Version"/>
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LidSwitchDisable</string>
+    <string name="app_description">Keep the screen on when docked or folio cover is closed.</string>
+    <string name="help">Help</string>
+</resources>
