@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <notices>
     <notice>
+        <name>LidSwitchDisable</name>
+        <url>https://github.com/Gaelan-Bolger/LidSwitchDisable-Android-Xposed</url>
+        <copyright>Copyright 2015 Gaelan Bolger</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
         <name>LicensesDialog</name>
         <url>https://github.com/PSDev/LicensesDialog</url>
         <copyright>Copyright 2013 Philip Schiffer</copyright>
